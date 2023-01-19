@@ -14,4 +14,3 @@
   <hr>
  
  ![Snake animation](https://github.com/Dev-mmateus/Dev-mmateus/blob/output/github-contribution-grid-snake.svg)
-
