@@ -1,4 +1,4 @@
-## Oi! Eu sou Mateus Oliveira
+## Oi! Eu sou Mateus Oliveira, estudante de Desenvolvimento back-and e front-and.
 
   <a href="https://github.com/Dev-mmateus">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-mmateus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
