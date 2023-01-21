@@ -1,6 +1,6 @@
 <div>
-  Olá, eu sou Mteus Oliveira! Seja bem vindo(a). 👋🏻
-🌱 Eu sou Estudante de Desenvolvimento Back-End e Front-End!
+  Olá, eu sou Mateus Oliveira! Seja bem vindo(a). 👋🏻<br>
+🌱 Eu sou Estudante de Desenvolvimento Back-End e Front-End!<br>
 💫 #desenvolvimentoweb, #computação e #tecnologia.
 </div>
   <a href="https://github.com/Dev-mmateus">
