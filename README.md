@@ -2,7 +2,7 @@
   Olá, eu sou Mateus Oliveira! Seja bem vindo(a). 👋🏻<br>
 🌱 Eu sou Estudante de Desenvolvimento Back-End e Front-End!<br>
 💫 #desenvolvimentoweb, #computação e #tecnologia.
-</div>
+</div><br><hr>
   <a href="https://github.com/Dev-mmateus">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-mmateus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  <hr>
